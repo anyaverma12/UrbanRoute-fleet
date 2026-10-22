@@ -1,4 +1,4 @@
-# ⚡ UrbanRoute Fleet
+# UrbanRoute Fleet
 
 UrbanRoute Fleet is an enterprise-grade B2B web application designed to optimize electric vehicle (EV) fleet operations. It serves as a unified charging and route planning engine that helps fleet managers and dispatchers eliminate mid-shift range anxiety, reduce missed charging sessions, and seamlessly calculate energy requirements based on payload and distance.
 
