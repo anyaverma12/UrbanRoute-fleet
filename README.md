@@ -1,4 +1,4 @@
-# UrbanRoute Fleet
+# ⚡ UrbanRoute Fleet
 
 UrbanRoute Fleet is an enterprise-grade B2B web application designed to optimize electric vehicle (EV) fleet operations. It serves as a unified charging and route planning engine that helps fleet managers and dispatchers eliminate mid-shift range anxiety, reduce missed charging sessions, and seamlessly calculate energy requirements based on payload and distance.
 
@@ -16,3 +16,14 @@ UrbanRoute Fleet is an enterprise-grade B2B web application designed to optimize
 * **UI Framework:** Bootstrap 5
 * **Icons:** FontAwesome
 * **Architecture:** Component-driven design (using pure JS/DOM manipulation) mapped to a JSON schema for easy backend integration.
+
+## Design System
+
+This prototype utilizes a modern B2B SaaS design system optimized for high contrast and reduced eye strain:
+* **Background:** `#F8FAFC` (Cool gray-blue)
+* **Primary Brand:** `#0F766E` (Deep teal)
+* **Base Text:** `#1F2937` (Dark gray)
+* **System Feedback:** 
+  * Success: `#166534` (Deep green)
+  * Warning: `#B54708` (Dark orange)
+  * Critical/Error: `#B42318` (Crimson)
